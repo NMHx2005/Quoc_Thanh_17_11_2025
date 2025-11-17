@@ -171,6 +171,7 @@ body {
 
 .logo-img {
     object-fit: contain;
+    height: 60px;
 }
 
 .nav-menu {
